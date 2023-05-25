@@ -1,1 +1,44 @@
+#import moduls necessery for the game.
+
+#initaiize the curses libarary to creat our screen.
+
+#hide the mouse curser.
+
+#getmax screen heidht and width.
+
+#create a new window.
+
+#allow window recheive input from keyboard.
+
+#set the delay for updating the screen.
+
+#set x,y coordinates of the initail position of snake's head.
+
+#define the initail position of the snake's body.
+
+#creat the food in the middle of window.
+
+#Add the food by usining PI chracter from curses mudels.
+
+#set initail movment direction to right.
+
+#creat game loop that game forever until the player loss or quit the game.
+
+#get the next key that will be pressed by user.
+
+#if user dosen't input anything,key remains same,key will be set to the new peressed key
+
+# check if snake collided with the walls or itself
+
+#set the new position of the snake head based on the diraction
+
+#insert the new Head to the first position of snake
+
+#check if snake ate the food
+
+#while food is removed, genarate new food in a random place on screen.
+
+#otherwise remove the last segment of snake body.
+
+# update the position of the snake on the screen
 
